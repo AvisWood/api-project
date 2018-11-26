@@ -1,0 +1,34 @@
+body{
+    background-image: url(wallpaper-of-love-paper-hearts-love-background.jpg);
+    background-size: 100%;
+    color: red;
+    height: 60%;
+    width: 60%;
+    font-family: cursive;
+}
+
+#name{
+    text-align: center;
+    height: 60%;
+    width: 60%;
+    font-weight: bolder;
+    font-size: 67px;
+    border-bottom: 200px;
+    
+}
+
+#percentText{
+    justify-content: right;
+}
+
+#resultsText{
+    justify-content: last baseline;
+}
+
+form{
+    border: solid;
+    margin: 100px;
+    text-align: center;
+    width: 40%
+}
+
